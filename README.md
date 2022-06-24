@@ -136,7 +136,7 @@ during this step we will study and test our model using testing data to check th
             
 below is our mae and mape score:
 
-![model_acc](static/Result.png
+![model_acc](static/Result.png)
 
 
 and here is our validation and training loss plot using tensorboard:
